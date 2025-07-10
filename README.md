@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Matheus Novaes]  
+# 👋 Hi, I'm Matheus Novaes
 
 ## 🛡️ Cybersecurity Specialist  
 - 🎓 **Google Cybersecurity Certificate** (2025)  
