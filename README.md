@@ -12,7 +12,7 @@ OS: Kali Linux
 ```
 
 ## 🚀 Current Projects  
-- [eJPT Labs Repository](https://github.com/your-user/ine-labs)   
+- [eJPT Labs Repository](https://github.com/ChunaFly/Labs-INE-eJPT)   
 - Automated Vulnerability Scanner (Python)  
 
 ## 📫 Let's Connect  
