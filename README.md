@@ -6,7 +6,7 @@
 
 ## 🔧 Technical Skills  
 ```
-Pentesting: Nmap | Metasploit | Burp Suite | Wireshark  
+Tools: Nmap | Metasploit | Burp Suite | Wireshark | Nessus | Splunk  
 Languages: Python (Security Scripts) | Bash | SQL  
 OS: Kali Linux 
 ```
