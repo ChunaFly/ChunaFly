@@ -2,7 +2,7 @@
 
 ## 🛡️ Cybersecurity Specialist  
 - 🎓 **Google Cybersecurity Certificate** (2025)  
-- 🎯 **Preparing for eJPT** (Exam scheduled for Aug 2025)   
+- 🎯 **Preparing for eJPT** (Exam scheduled for Sep 2025)   
 
 ## 🔧 Technical Skills  
 ```
