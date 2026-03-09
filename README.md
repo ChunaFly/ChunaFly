@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Matheus Novaes
 
 ## 🛡️ Cybersecurity Specialist  
-- 🎓 **Google Cybersecurity Certificate** (2025)  
-- 🎯 **Preparing for eJPT** (Exam scheduled for Sep 2025)   
+- 🛡️ **CompTIA Security+ Certified**
+- 🧑‍💻 **eLearn Security eJPT Certified**
+-  🎓 **Google Cybersecurity Certificate** (2025)  
+ ****    
 
 ## 🔧 Technical Skills  
 ```
@@ -12,6 +14,7 @@ OS: Kali Linux
 ```
 
 ## 🚀 Current Projects  
+- **Purple Team Project** **(WIP)**
 - [eJPT Labs Repository](https://github.com/ChunaFly/Labs-INE-eJPT)   
 - Automated Vulnerability Scanner (Python)  
 
