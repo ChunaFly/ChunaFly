@@ -6,10 +6,9 @@
 -  🎓 **Google Cybersecurity Certificate** (2025)  
  ****    
 
-## 🔧 Technical Skills  
+## 🔧 About Me  
 ```
-Tools: Nmap | Metasploit | Burp Suite | Wireshark | Nessus | Splunk  
-Languages: Python (Security Scripts) | Bash | SQL  
+Cybersecurity Analyst | eJPT | Security+ | Offensive Security & Vulnerability Management |  Pentesting | Purple Teaming  
 OS: Kali Linux 
 ```
 
