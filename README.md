@@ -14,7 +14,7 @@ OS: Kali Linux
 ```
 
 ## 🚀 Current Projects  
-- **Purple Team Project** **(WIP)**
+- [**Purple Team Project** **(WIP)**](https://github.com/ChunaFly/Purple-Team-Project)
 - [eJPT Labs Repository](https://github.com/ChunaFly/Labs-INE-eJPT)   
 - Automated Vulnerability Scanner (Python)  
 
